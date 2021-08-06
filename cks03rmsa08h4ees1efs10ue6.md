@@ -1,8 +1,8 @@
 ## Ways to interact with Kubernetes Clusters managed by HPE Ezmeral Container Platform
 
+*This blog is posted along with [Blog from HPE Dev](https://developer.hpe.com/blog/ways-to-interact-with-kubernetes-clusters-managed-by-hpe-ezmeral-container-platform/) *
+
 HPE Ezmeral Software Platform consists of a bundle of software that helps you run, manage, control, and secure the apps, data, and IT that run your business. A major component is the HPE Ezmeral Container Platform (HPE ECP),a unified cloud container software platform built on Kubernetes (K8s). You can use it to deploy a new Kubernetes cluster with a few clicks. But how exactly do you connect through HPE ECP to interact with K8s? Don't panic! This blog post will introduce to you most, if not all, of the ways to connect with a Kubernetes cluster using HPE ECP.
-
-
 
 
 ## WebUI
