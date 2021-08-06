@@ -1,4 +1,4 @@
-## Ways to interact with Kubernetes Clusters managed by HPE Ezmeral Container Platform
+## [HPE Dev] Ways to interact with Kubernetes Clusters managed by HPE Ezmeral Container Platform
 
 *This blog is posted along with [Blog from HPE Dev](https://developer.hpe.com/blog/ways-to-interact-with-kubernetes-clusters-managed-by-hpe-ezmeral-container-platform/) *
 
