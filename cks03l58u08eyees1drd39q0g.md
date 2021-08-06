@@ -1,4 +1,4 @@
-## Introducing the HPE GL20 IoT Gateway
+## [HPE Dev] Introducing the HPE GL20 IoT Gateway
 
 *__This blog is posted along with  [Blog from HPE Dev](https://developer.hpe.com/blog/introducing-the-hpe-gl20-iot-gateway/) __*
 
