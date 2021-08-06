@@ -1,5 +1,7 @@
 ## Getting Started with DataTaps in Kubernetes Pods
 
+*This blog is posted along with  [Blog from HPE Dev](https://developer.hpe.com/blog/accessing-dtap-in-pods/) *
+
 ## What is DataTap?
 
 Handling different protocols of file systems is always a pain for a data analyst. DataTap is a file system connector that aims to alleviate this pain. DataTap provides HDFS protocol abstraction that allows big data applications like Spark to run unmodified with fast access to data sources other than HDFS, i.e. HPE Ezmeral Data Fabric XD (formerly named MapR-FS/XD) and GCS (Google Cloud Storage). Using DataTap, you can unify your code while the underlying data sources can be swapped from HDFS, MapR-FS. This flexibility allows developers like you to focus more on coding rather than the underlying infrastructure. More information on DataTap can be found [here](https://docs.containerplatform.hpe.com/53/reference/kubernetes/tenant-project-administration/copy_About_DataTaps.html).
