@@ -1,4 +1,4 @@
-## Data Analytics with PySpark using HPE Ezmeral Container Platform
+## [HPE Dev] Data Analytics with PySpark using HPE Ezmeral Container Platform
 
 *This blog is posted along with Blog from  [HPE Dev](https://developer.hpe.com/blog/data-analytic-with-pyspark-using-hpe-ezmeral-container-platform/) *
 
