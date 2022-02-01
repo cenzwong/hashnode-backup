@@ -1,6 +1,6 @@
 ## [HPE Dev] Mapping Kubernetes Services to HPE Ezmeral Runtime Enterprise Gateway
 
-*This blog is posted along with Blog from  [HPE Dev](https://developer.hpe.com/blog/data-analytic-with-pyspark-using-hpe-ezmeral-container-platform/) *
+*This blog is posted along with Blog from  [HPE Dev](https://developer.hpe.com/blog/mapping-kubernetes-services-to-hpe-ezmeral-container-platform-gateway/) *
 
 ---
 
