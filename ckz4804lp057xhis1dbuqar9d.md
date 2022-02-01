@@ -1,4 +1,8 @@
-## Mapping Kubernetes Services to HPE Ezmeral Runtime Enterprise Gateway
+## [HPE Dev] Mapping Kubernetes Services to HPE Ezmeral Runtime Enterprise Gateway
+
+*This blog is posted along with Blog from  [HPE Dev](https://developer.hpe.com/blog/data-analytic-with-pyspark-using-hpe-ezmeral-container-platform/) *
+
+---
 
 Imagine you have different Kubernetes services and different services that come with different IP addresses. Are there tools that unify different services into single domain name? A gateway can answer that question. There are several benefits of using a gateway. First, the gateway can act as a load-balancer for different services. Second, only a gateway host IP address is exposed to the public while the rest remains behind the firewall. Follow this blog post to learn more about how to map Kubernetes Services to HPE Ezmeral Runtime Enterprise Gateway.
 
