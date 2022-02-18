@@ -101,9 +101,9 @@ The syntax of the Dask Dataframe is more or less the same as Pandas. The main di
 
 | Performance      | Loading CSV | Compute Sum | Filter Dataframe | Compute Both |
 | ----------- | ----------- | ----------- |
-| Time | 9s | 253s | 517s | 769s |
+| Time | 9s | 183.91s | 158.58s | 769s |
 | Peak Memory | 173.91 MiB        | 792.21 MiB   | 843.69 MiB | 846.09 MiB |
-| Increment Memory | 31.15 MiB        | 618.10 MiB     |  79.89 MiB | 15.00 MiB| 
+| Increment Memory | 31.15 MiB        | 618.10 MiB     |  17.1 MiB | 74.87 MiB| 
 
 Loading csv is so fast because Dask only loads data when we need to get query results. There is some technique behind calculating the sum while filtering requires reading the entire data. That's why it takes more time to filter then to compute a sum. This is just the tip of the iceberg for using Dask, feel free to check out the [Dask Document](https://docs.dask.org/en/latest/).
 
