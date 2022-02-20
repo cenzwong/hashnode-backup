@@ -1,6 +1,8 @@
 ## How to deal with really LARGE data?
 
-With more and more companies being serious about their data, file sizes are now larger than they used to be. While most of our laptops still have 8GB of RAM, we get out of memory errors when we try to open files larger than memory. Instead of adding more memory to your system (or using a cloud service), we can have another way to deal with this situation.
+
+
+ith more and more companies being serious about their data, file sizes are now larger than they used to be. While most of our laptops still have 8GB of RAM, we get out of memory errors when we try to open files larger than memory. Instead of adding more memory to your system (or using a cloud service), we can have another way to deal with this situation.
 
 Some people might be confused about these two terms:
 > - **Storage ** is refer to HDD/SSD
@@ -114,8 +116,7 @@ Usually, when dealing with large files, we harness the power of distributed comp
 
 I have summarized related topics into a mind map. The world is constantly changing, if you have any other exciting projects feel free to comment below and I'll add them to the mind map as well.
 
-
-[![HPC@2x (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645010917838/Dq_hSrawM.png)](https://whimsical.com/hpc-6siHqXsWd89xtYs4hbEPVV)
+[![HPC@2x (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645365669294/jvlirJY5A.jpeg)](https://whimsical.com/hpc-6siHqXsWd89xtYs4hbEPVV)
 
 > Additional Reading:
 > - [Is Spark Still Relevant: Spark vs Dask vs RAPIDS](https://www.youtube.com/watch?v=RRtqIagk93k)
