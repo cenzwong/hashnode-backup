@@ -130,5 +130,6 @@ It's not about which is the best. It's about which one is best for your situatio
 > Additional Reading:
 > - [Profiling and Optimizing Python Algorithms in Scientific Environments.](https://towardsdatascience.com/speed-up-jupyter-notebooks-20716cbe2025)
 > - [Optimized ways to Read Large CSVs in Python](https://medium.com/analytics-vidhya/optimized-ways-to-read-large-csvs-in-python-ab2b36a7914e)
+> - [12 Ways to Apply a Function to Each Row in Pandas DataFrame](http://scgupta.link/pandas-dataframe-apply) 
 
 
