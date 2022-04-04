@@ -2,7 +2,7 @@
 
 
 
-ith more and more companies being serious about their data, file sizes are now larger than they used to be. While most of our laptops still have 8GB of RAM, we get out of memory errors when we try to open files larger than memory. Instead of adding more memory to your system (or using a cloud service), we can have another way to deal with this situation.
+With more and more companies being serious about their data, file sizes are now larger than they used to be. While most of our laptops still have 8GB of RAM, we get out of memory errors when we try to open files larger than memory. Instead of adding more memory to your system (or using a cloud service), we can have another way to deal with this situation.
 
 Some people might be confused about these two terms:
 > - **Storage ** is refer to HDD/SSD
