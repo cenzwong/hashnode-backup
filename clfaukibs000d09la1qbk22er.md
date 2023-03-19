@@ -329,3 +329,21 @@ Here is a table that summarizes the differences between a vNet and a Subnet in A
 | Can be connected to other virtual networks | Can be connected to other subnets within the same virtual network |
 
 Is there anything else you would like to know?
+
+### 🤖: What’s the difference between Kubenet and Azure CNI. list them in a table.
+
+Kubenet and Azure CNI are two different network plugins used by Azure Kubernetes Service (AKS) for networking. With **Azure CNI**, nodes get IP addresses from the subnet of the pre-defined VNET¹. With **Kubenet**, nodes get IP addresses from the subnet of the VNET that resides in the system resource group (‘MC\_’-group). Azure creates this VNET and subnet automatically¹.
+
+For production deployments, both Kubenet and Azure CNI are valid options³. However, there are advantages and disadvantages to each. At a high level, Kubenet conserves IP addresses while Azure CNI provides better performance⁴.
+
+Here's a table summarizing their differences:
+
+| Feature | Kubenet | Azure CNI |
+| --- | --- | --- |
+| Nodes get IP addresses from | Subnet of VNET that resides in system resource group (‘MC\_’-group) | Subnet of pre-defined VNET |
+| Performance | Lower performance compared to Azure CNI due to NAT¹ | Slightly better performance on an empty cluster compared to Kubenet¹ |
+| Valid option for production deployment? | Yes³ | Yes³ |
+
+Is there anything else you would like me to find for you?
+
+Source: Conversation with Bing, 3/19/2023(1) AKS: Kubenet vs Azure CNI - Medium. [https://mehighlow.medium.com/aks-kubenet-vs-azure-cni-363298dd53bf](https://mehighlow.medium.com/aks-kubenet-vs-azure-cni-363298dd53bf) Accessed 3/19/2023. (2) Best practices for network resources - Azure Kubernetes Service. [https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-network](https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-network) Accessed 3/19/2023. (3) Concepts - Networking in Azure Kubernetes Services (AKS) - Azure .... [https://learn.microsoft.com/en-us/azure/aks/concepts-network](https://learn.microsoft.com/en-us/azure/aks/concepts-network) Accessed 3/19/2023. (4) Azure Kubernetes Service Kubenet vs Azure CNI - [msandbu.org](http://msandbu.org) - Marius Sandbu. [https://msandbu.org/azure-kubernetes-service-kubenet-vs-azure-cni/](https://msandbu.org/azure-kubernetes-service-kubenet-vs-azure-cni/) Accessed 3/19/2023.
