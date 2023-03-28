@@ -347,3 +347,59 @@ Here's a table summarizing their differences:
 Is there anything else you would like me to find for you?
 
 Source: Conversation with Bing, 3/19/2023(1) AKS: Kubenet vs Azure CNI - Medium. [https://mehighlow.medium.com/aks-kubenet-vs-azure-cni-363298dd53bf](https://mehighlow.medium.com/aks-kubenet-vs-azure-cni-363298dd53bf) Accessed 3/19/2023. (2) Best practices for network resources - Azure Kubernetes Service. [https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-network](https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-network) Accessed 3/19/2023. (3) Concepts - Networking in Azure Kubernetes Services (AKS) - Azure .... [https://learn.microsoft.com/en-us/azure/aks/concepts-network](https://learn.microsoft.com/en-us/azure/aks/concepts-network) Accessed 3/19/2023. (4) Azure Kubernetes Service Kubenet vs Azure CNI - [msandbu.org](http://msandbu.org) - Marius Sandbu. [https://msandbu.org/azure-kubernetes-service-kubenet-vs-azure-cni/](https://msandbu.org/azure-kubernetes-service-kubenet-vs-azure-cni/) Accessed 3/19/2023.
+
+## Tell me the different between Azure connect sync and Azure connect cloud. Show me in a table.
+
+Azure AD Connect sync and Azure AD Connect cloud sync are both used to synchronize users, groups, and contacts to Azure AD. However, there are some differences between the two.
+
+With **Azure AD Connect sync**, provisioning runs on the **on-premises sync server** and configuration is stored on the **on-premises sync server**¹.
+
+With **Azure AD Connect cloud sync**, the provisioning configuration is stored in the **cloud** and runs in the **cloud** as part of the Azure AD provisioning service¹.
+
+Here is a table that compares some of the features of Azure AD Connect sync and Azure AD Connect cloud sync:
+
+| Feature | Azure AD Connect sync | Azure AD Connect cloud sync |
+
+| --- | --- | --- |
+
+| Connect to single on-premises AD forest | ● | ● |
+
+| Connect to multiple on-premises AD forests | ● | ● |
+
+| Connect to multiple disconnected on-premises AD forests |  | ● |
+
+| Lightweight agent installation model |  | ● |
+
+| Multiple active agents for high availability |  | ● |
+
+| Connect to LDAP directories | ● |  |
+
+| Support for user objects | ● | ● |
+
+| Support for group objects | ● | ● |
+
+| Support for contact objects | ● | ● |
+
+| Support for device objects | ● |  |
+
+| Allow basic customization for attribute flows | ● | ● |
+
+| Synchronize Exchange online attributes | ● | ● |
+
+| Synchronize extension attributes 1-15 | ● | ● |
+
+| Synchronize customer defined AD attributes (directory extensions) | ● | ● |
+
+| Support for Password Hash Sync (PHS) | ● | ● |
+
+| Support for Pass-Through Authentication (PTA) | ● |  ²
+
+Is there anything else you would like to know?
+
+Source: Conversation with Bing, 3/28/2023(1) Azure AD Connect cloud sync FAQ - Microsoft Entra. [https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/reference-cloud-sync-faq](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/reference-cloud-sync-faq) Accessed 3/28/2023.
+
+(2) What is Azure AD Connect cloud sync? - Microsoft Entra. [https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync) Accessed 3/28/2023.
+
+(3) How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync .... [https://practical365.com/how-to-decide-between-azure-ad-connect-and-azure-ad-connect-cloud-sync/](https://practical365.com/how-to-decide-between-azure-ad-connect-and-azure-ad-connect-cloud-sync/) Accessed 3/28/2023.
+
+(4) Azure AD Connect Cloud Sync - Cloud Business & Technology. [https://www.graber.cloud/en/aad-connect-cloud-sync-announce/](https://www.graber.cloud/en/aad-connect-cloud-sync-announce/) Accessed 3/28/2023.
