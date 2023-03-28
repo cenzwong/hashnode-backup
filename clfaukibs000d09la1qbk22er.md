@@ -359,43 +359,30 @@ With **Azure AD Connect cloud sync**, the provisioning configuration is stored i
 Here is a table that compares some of the features of Azure AD Connect sync and Azure AD Connect cloud sync:
 
 | Feature | Azure AD Connect sync | Azure AD Connect cloud sync |
-
 | --- | --- | --- |
-
 | Connect to single on-premises AD forest | ● | ● |
-
 | Connect to multiple on-premises AD forests | ● | ● |
-
-| Connect to multiple disconnected on-premises AD forests |  | ● |
-
-| Lightweight agent installation model |  | ● |
-
-| Multiple active agents for high availability |  | ● |
-
-| Connect to LDAP directories | ● |  |
-
+| Connect to multiple disconnected on-premises AD forests |  | ● |
+| Lightweight agent installation model |  | ● |
+| Multiple active agents for high availability |  | ● |
+| Connect to LDAP directories | ● |  |
 | Support for user objects | ● | ● |
-
 | Support for group objects | ● | ● |
-
 | Support for contact objects | ● | ● |
-
-| Support for device objects | ● |  |
-
+| Support for device objects | ● |  |
 | Allow basic customization for attribute flows | ● | ● |
-
 | Synchronize Exchange online attributes | ● | ● |
-
 | Synchronize extension attributes 1-15 | ● | ● |
-
 | Synchronize customer defined AD attributes (directory extensions) | ● | ● |
-
 | Support for Password Hash Sync (PHS) | ● | ● |
-
-| Support for Pass-Through Authentication (PTA) | ● |  ²
+| Support for Pass-Through Authentication (PTA) | ● |  ²
 
 Is there anything else you would like to know?
 
+Source: Conversation with Bing, 3/28/2023(1) Azure AD Connect cloud sync FAQ - Microsoft Entra. https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/reference-cloud-sync-faq Accessed 3/28/2023.
+(2) What is Azure AD Connect cloud sync? - Microsoft Entra. https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync Accessed 3/28/2023.
+(3) How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync .... https://practical365.com/how-to-decide-between-azure-ad-connect-and-azure-ad-connect-cloud-sync/ Accessed 3/28/2023.
+(4) Azure AD Connect Cloud Sync - Cloud Business & Technology. https://www.graber.cloud/en/aad-connect-cloud-sync-announce/ Accessed 3/28/2023. 
 Source: Conversation with Bing, 3/28/2023(1) Azure AD Connect cloud sync FAQ - Microsoft Entra. [https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/reference-cloud-sync-faq](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/reference-cloud-sync-faq) Accessed 3/28/2023.
 
 (2) What is Azure AD Connect cloud sync? - Microsoft Entra. [https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync](https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync) Accessed 3/28/2023.
