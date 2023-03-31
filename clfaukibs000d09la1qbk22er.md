@@ -390,3 +390,19 @@ Source: Conversation with Bing, 3/28/2023(1) Azure AD Connect cloud sync FAQ - M
 (3) How to Decide Between Azure AD Connect and Azure AD Connect Cloud Sync .... [https://practical365.com/how-to-decide-between-azure-ad-connect-and-azure-ad-connect-cloud-sync/](https://practical365.com/how-to-decide-between-azure-ad-connect-and-azure-ad-connect-cloud-sync/) Accessed 3/28/2023.
 
 (4) Azure AD Connect Cloud Sync - Cloud Business & Technology. [https://www.graber.cloud/en/aad-connect-cloud-sync-announce/](https://www.graber.cloud/en/aad-connect-cloud-sync-announce/) Accessed 3/28/2023.
+
+#### Difference table in Event Grid, Service Bus, Event Hubs, and Storage queues
+
+Sure! Here is a table that compares some of the key differences between Event Grid, Service Bus, Event Hubs, and Storage queues:
+
+| Service | Description |
+| --- | --- |
+| **Event Grid** | An eventing backplane that enables event-driven, reactive programming. It uses the publish-subscribe model. Publishers emit events, but have no expectation about how the events are handled. Subscribers decide on which events they want to handle. Event Grid is deeply integrated with Azure services and can be integrated with third-party services. It simplifies event consumption and lowers costs by eliminating the need for constant polling¹. |
+| **Service Bus** | Part of a broader Azure messaging infrastructure that supports queuing, publish/subscribe, and more advanced integration patterns. It's designed to integrate applications or application components that may span multiple communication protocols, data contracts, trust domains, or network environments². |
+| **Event Hubs** | A big data streaming platform and event ingestion service. It can receive and process millions of events per second. Data sent to an event hub can be transformed and stored by using any real-time analytics provider or batching/storage adapters¹. |
+| **Storage queues** | Part of the Azure Storage infrastructure. They allow you to store large numbers of messages. You access messages from anywhere in the world via authenticated calls using HTTP or HTTPS. A queue message can be up to 64 KB in size. A queue may contain millions of messages, up to the total capacity limit of a storage account. Queues are commonly used to create a backlog of work to process asynchronously². |
+
+I hope this helps! Is there anything else you would like to know?
+
+Source: Conversation with Bing, 3/31/2023(1) Compare Azure messaging services - Azure Event Grid. https://learn.microsoft.com/en-us/azure/event-grid/compare-messaging-services Accessed 3/31/2023.
+(2) Storage queues and Service Bus queues - compared and contrasted. https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted Accessed 3/31/2023.
