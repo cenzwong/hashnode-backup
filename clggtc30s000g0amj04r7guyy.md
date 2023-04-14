@@ -1,10 +1,10 @@
 ---
-title: "Pre-trained Language Model: Survey"
+title: "Pre-trained Language Model: Survey 2022"
 seoTitle: "Pre-trained Language Model: Survey"
 seoDescription: "This survey covers popular pre-trained language models like BERT, GPT, T5, OPT, and LaMDA, Python libraries, benchmarking, and their applications."
 datePublished: Sun Jul 31 2022 17:23:56 GMT+0000 (Coordinated Universal Time)
 cuid: clggtc30s000g0amj04r7guyy
-slug: pre-trained-language-model-survey
+slug: pre-trained-language-model-survey-2022
 canonical: https://cenzwong.github.io/MSBDx/MSBD5018-NLP/MSBD5018_Wong_Tsz_Ho_Indi_report.html
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681492394884/315e799c-e205-4511-bac5-36bff0a08824.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681492380083/80b67163-42e9-464b-903a-4d2e11ecabfd.png
