@@ -135,8 +135,6 @@ Usually, when dealing with large files, we harness the power of distributed comp
 
 I have summarized related topics into a mind map. The world is constantly changing, if you have any other exciting projects feel free to comment below and I'll add them to the mind map as well.
 
-[![](https://cenzwong.github.io/markmap/HPC/markmap.svg)](https://cenzwong.github.io/markmap/HPC/)
-
 [![HPC@2x (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645365669294/jvlirJY5A.jpeg align="left")](https://whimsical.com/hpc-6siHqXsWd89xtYs4hbEPVV)
 
 > Additional Reading:
