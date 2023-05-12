@@ -159,6 +159,8 @@ If you are interested in using REALM for your own projects, you can check out so
 
 * [LangChain](https://docs.langchain.com/docs/): a framework for developing applications powered by language models. It allows users to create data-aware and agentic applications that can interact with their environment and other sources of data. LangChain provides modular components, use-case specific chains, and agent simulations to help users build and deploy their own language model applications. LangChain supports Python and JavaScript languages and integrates with various model types and platforms
     
+* Google’s Project Tailwind [https://blog.google/technology/ai/google-labs-sign-up/](https://blog.google/technology/ai/google-labs-sign-up/)
+    
 
 I hope this blog post has given you some insights into what REALM is and how it can help you enhance your LLMs with external knowledge. If you have any questions or feedback, feel free to leave a comment below or send me a message on LinkedIn! 📩. Happy coding! 😊
 
