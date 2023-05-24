@@ -16,7 +16,7 @@ Here is the introduction video from Microsoft:
 
 %[https://www.youtube.com/watch?v=X_c7gLfJz_Q] 
 
-Microsoft Fabric brings Azure Data Services, such as Data Lake, SQL Analytics, and Notebook Environment, directly into the same environment as Microsoft 365. This means you can easily access and integrate Microsoft 365's Table (Microsoft Lists) and Files (SharePoint and OneDrive) with Power Platform to build non-time critical applications for different business users. No more excuses for not migrating to the cloud because the cloud has already come to you.
+Microsoft Fabric brings Azure Data Services, such as Data Lake, SQL Analytics, and Notebook Environment, directly into the same environment as Microsoft 365. This means you can easily access and integrate Microsoft 365's Table (Microsoft Lists) and Files (SharePoint and OneDrive) with *Power Platform* to build non-time critical applications for different business users. No more excuses for not migrating to the cloud because the cloud has already come to you.
 
 [![Administering a Power Apps enterprise deployment - Power Platform |  Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/admin/media/ms-power-platform.png align="left")](https://learn.microsoft.com/en-us/power-platform/admin/admin-powerapps-enterprise-deployment)
 
