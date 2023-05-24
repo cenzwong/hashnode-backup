@@ -33,6 +33,8 @@ Microsoft Fabric is not just a new product. It is a new paradigm. It is a new wa
 > [MS e-book: UnlockingTransformative Data Value with Microsoft Fabric](https://info.microsoft.com/ww-landing-unlocking-transformative-data-value-with-microsoft-fabric.html)
 > 
 > [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials)
+> 
+> [Can cross-cloud data analytics be easy? | Microsoft Fabric](https://www.youtube.com/watch?v=oxMUJT3p9f4)
 
 ---
 
