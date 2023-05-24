@@ -1,6 +1,5 @@
 ---
 title: "Microsoft Fabric: The Beast Awakens, Bringing Azure Data Services to Microsoft 365 Users"
-seoTitle: "Microsoft Fabric The New Data and Analytics Platform for the Era of AI"
 datePublished: Wed May 24 2023 17:36:33 GMT+0000 (Coordinated Universal Time)
 cuid: cli1zlprz000209jhfvpg8a1c
 slug: microsoft-fabric-the-beast-awakens-bringing-azure-data-services-to-microsoft-365-users
