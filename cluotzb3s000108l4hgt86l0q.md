@@ -11,12 +11,12 @@ tags: python, types, type-casting, datatypes, pyspark, databricks
 
 ---
 
+Data types are a fundamental aspect of any data processing work, and PySpark offers robust solutions for handling them. When working with PySpark, data type conversion is a common task, and understanding the difference of each approach is key to efficient data manipulation. This blog post will explore the three primary methods of type conversion in PySpark: **column** level, **functions** level, and **dataframe** level, providing insights into when and how to use each one effectively.
+
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💻</div>
 <div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://colab.research.google.com/drive/15DmzhloHINpuC9T3snYmF3XFXnSF8ARH?usp=sharing" style="pointer-events: none">Code used in this Blog</a></div>
 </div>
-
-Data types are a fundamental aspect of any data processing work, and PySpark offers robust solutions for handling them. When working with PySpark, data type conversion is a common task, and understanding the difference of each approach is key to efficient data manipulation. This blog post will explore the three primary methods of type conversion in PySpark: **column** level, **functions** level, and **dataframe** level, providing insights into when and how to use each one effectively.
 
 | Functions name (version) | Description |
 | --- | --- |
