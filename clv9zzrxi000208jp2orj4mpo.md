@@ -1,7 +1,7 @@
 ---
 title: "Crafting PySpark Custom Functions"
 seoTitle: "Writing Reusable PySpark Functions"
-seoDescription: "Learn how to write modular, reusable functions with PySpark for efficient big data processing. Explore techniques using native PySpark, Pandas UDFs, Python "
+seoDescription: "Learn how to write modular, reusable functions with PySpark for efficient big data processing. Explore techniques using native PySpark, Pandas UDFs, Python"
 datePublished: Sun Apr 21 2024 20:45:49 GMT+0000 (Coordinated Universal Time)
 cuid: clv9zzrxi000208jp2orj4mpo
 slug: crafting-pyspark-custom-functions
@@ -135,7 +135,7 @@ spark.range(5).select(
 
 ## Python UDF
 
-The least performant option would be using a vanilla Python UDF. When writing a Python UDF, you should think of it at a single data level, where the function takes a single value from the column, and you perform the transformation on that value.
+The least performant option would be using a vanilla Python UDF. You could still enable Arrow in the decorator do get a better performance. When writing a Python UDF, you should think of it at a single data level, where the function takes a single value from the column, and you perform the transformation on that value.
 
 ```python
 @F.udf(T.IntegerType(), useArrow=True)
