@@ -26,7 +26,9 @@ In this blog, I would introduce methods for interacting with large data using Li
 
 The dataset I used for this experiment is the [CORD-19 dataset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html).
 
-At this snapshot, the *cord\_19\_embeddings\_2022-02-07.csv* is around 13G and the environment I used has only 12G memory. You can check your computer memory configuration using `free -h`. And check the file size using `ls -lh`.
+At this snapshot, the *cord\_19\_embeddings\_2022-02-07.csv* is around 13G and the environment I used has only 12G memory. You can check your computer memory configuration using `free -h`. And check the file size using `ls -lh`. Also check the disk size using `df -h`.
+
+> Bonus: You could use `watch` to watch the changes from time to time.
 
 All the code used is in the following Colab notebook:
 
