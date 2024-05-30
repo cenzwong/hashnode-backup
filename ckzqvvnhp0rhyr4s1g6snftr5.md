@@ -73,6 +73,8 @@ split -b 1G -d --additional-suffix=.csv cord_19_embeddings_2021-05-31.csv cord_1
 
 To fully understand the meaning of the argument, check the official documents: [Coreutil: Split a file into pieces.](https://www.gnu.org/software/coreutils/manual/html_node/split-invocation.html#split-invocation)
 
+To count all the line of the csv files: `wc -l *.csv`
+
 ### For Windows User
 
 I strongly recommend that you [install the ubuntu subsystem in Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install). If you want to stick with Microsoft, try exploring PowerShell or Batch scripting on Windows. After installing Linux Subsystem, in Windows run:
