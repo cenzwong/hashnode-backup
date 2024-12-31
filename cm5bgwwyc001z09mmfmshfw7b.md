@@ -119,3 +119,38 @@ To further understand functional programming for Big Data. You could visit [**Fu
 If you have any questions or feedback, feel free to leave a comment below or send me a message on LinkedIn! 📩. Happy coding! 😊
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin align="left")](https://www.linkedin.com/in/cenzwong/)
+
+---
+
+# Epilogue
+
+As 2024 comes to an end, I’ve been reflecting on the lessons I’ve learned, especially in the realm of data engineering. One of the biggest takeaways for me this year has been the value of **functional programming** in building **data pipelines**.
+
+Data pipelines are not static software products where the code remains unchanged over time. They’re dynamic systems—schemas evolve, data volumes increase, and new requirements emerge. Instead of investing excessive time in creating overly complex software abstractions, which can slow down progress and complicate collaboration, the focus should be on building pipelines that are:
+
+* **Adaptable to changes**
+    
+* **Easy to maintain**
+    
+* **Well-aligned with the data’s nature**
+    
+
+Unlike software products, where a deep understanding of every piece of code may not always be necessary, a data pipeline requires you to truly **understand the data**—how it’s stored, how it flows, and how it transforms. This highlights the importance of strengthening core data engineering knowledge:
+
+* **Dimensional modeling** to design effective data warehouses
+    
+* **Data quality assurance** to ensure reliability
+    
+* **Scalable designs** that can handle growth
+    
+
+Over-investing in abstractions that wrap around existing frameworks can lead to unintended consequences:
+
+* Rebuilding the same wheel
+    
+* Making the codebase harder for peers to understand and maintain
+    
+
+Instead, let’s prioritize simplicity, maintainability, and clarity. After all, the goal of a data pipeline isn’t just to move data—it’s to empower businesses with **trustworthy, actionable insights**.
+
+Looking forward to another year of growth in 2025! 💡
