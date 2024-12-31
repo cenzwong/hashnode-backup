@@ -152,5 +152,3 @@ Over-investing in abstractions that wrap around existing frameworks can lead to 
     
 
 Instead, let’s prioritize simplicity, maintainability, and clarity. After all, the goal of a data pipeline isn’t just to move data—it’s to empower businesses with **trustworthy, actionable insights**.
-
-Looking forward to another year of growth in 2025! 💡
