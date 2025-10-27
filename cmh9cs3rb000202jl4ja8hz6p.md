@@ -67,6 +67,9 @@ Or, for one-off usage:
 
 ```bash
 pipx run black .
+
+# Search for vulnerabilities
+pipx run pip-audit -r requirements.txt 
 ```
 
 It’s the Python version of `npx`.  
