@@ -1,5 +1,5 @@
 ---
-title: "Untangling Python’s Tooling, Part 2: Meeting uv, the One-Stop Tool"
+title: "🐍 Untangling Python’s Tooling, Part 2: Meeting uv, the One-Stop Tool"
 seoTitle: "Introducing uv: Python's All-in-One Tool"
 seoDescription: "`uv` replaces Python's traditional stack with a fast, consistent interface for managing projects, dependencies, and environments"
 datePublished: Mon Nov 10 2025 08:23:25 GMT+0000 (Coordinated Universal Time)
