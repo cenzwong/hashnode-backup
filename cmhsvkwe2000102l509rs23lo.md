@@ -9,6 +9,11 @@ tags: python, python3, uv
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Co-edit with GPT-5</div>
+</div>
+
 In [Part 1](https://cenz.hashnode.dev/untangling-pythons-pip-pipx-pyenv-and-venv), we unpacked the Python tool zoo:
 
 * `pip` for installing packages
